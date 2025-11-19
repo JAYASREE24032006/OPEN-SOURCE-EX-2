@@ -6,8 +6,21 @@ To configure SELinux in Red Hat Enterprise Linux so that a web server running on
 
 ## Output:
 
-https://private-user-images.githubusercontent.com/144870490/513779434-a8087810-b022-4dd8-a2f9-146c94c68ddb.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM1NDQ3NjMsIm5iZiI6MTc2MzU0NDQ2MywicGF0aCI6Ii8xNDQ4NzA0OTAvNTEzNzc5NDM0LWE4MDg3ODEwLWIwMjItNGRkOC1hMmY5LTE0NmM5NGM2OGRkYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExOVQwOTI3NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzNjNjBiNDU0ODFmNWEyMWQ4OTBmNGM2ZWM2M2NiZDEwYTUzMzVmMmNiZDgzZTE4ZmZmZmI3MzFhNjA0ZjQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ZmRZ9kR2KRW2c6vAPSQol48POBwFjFGYX9ckUbHnj9g
+<img width="1145" height="848" alt="image" src="https://github.com/user-attachments/assets/a6516c5e-d3e6-4cfc-bc8f-ae8e75ccbb6d" />
 
+<img width="1268" height="890" alt="image" src="https://github.com/user-attachments/assets/a2002ce4-7c96-4af1-8245-0bf115730d35" />
+
+<img width="1153" height="864" alt="image" src="https://github.com/user-attachments/assets/fd75041e-a733-4fc3-8528-3dc53541d657" />
+
+<img width="761" height="550" alt="image" src="https://github.com/user-attachments/assets/0ae83d28-7dd7-413d-94c9-c1f9d572c879" />
+
+<img width="1026" height="829" alt="image" src="https://github.com/user-attachments/assets/58f01ccd-ac68-456a-ad2d-e10fe2aa97a5" />
+
+<img width="1062" height="353" alt="image" src="https://github.com/user-attachments/assets/ca6eb88d-d3af-41f3-a9f8-16370c7ae1b9" />
+
+<img width="734" height="508" alt="image" src="https://github.com/user-attachments/assets/3d81c6f2-b912-4fe9-9d4a-988c6c81adbe" />
+
+<img width="722" height="526" alt="image" src="https://github.com/user-attachments/assets/7fd68141-339b-468a-9f28-2567f1fec8fa" />
 
 ## Result:
 Thus, the SELinux configuration was successfully modified to allow the web server to serve existing HTML files from /var/www/html on the non-standard port 82, and the web content became accessible without disabling SELinux.
